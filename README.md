@@ -7,14 +7,14 @@ A clean, minimal web app that displays a random inspirational quote each time yo
 
 > Click **Get Quote** and get inspired by a randomly selected motivational quote, styled with a smooth animated star-burst button effect.
 
-## 🚀 Features
+##  Features
 
 - Displays a random quote from a curated list on button click
 - Animated star-burst button effect on hover (via [Uiverse.io](https://uiverse.io))
 - Clean, card-based UI with a warm color palette
 - Lightweight — pure HTML, CSS, and vanilla JavaScript, no dependencies
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 random-quote-generator/
@@ -29,7 +29,7 @@ random-quote-generator/
 2. When the **Get Quote** button is clicked, a random index is picked using `Math.random()`.
 3. The selected quote is injected into the `#quote` paragraph and italicized.
 
-## 📋 Quotes Included
+## Quotes Included
 
 | Quote | Author |
 |-------|--------|
@@ -39,7 +39,7 @@ random-quote-generator/
 | "Don't watch the clock; do what it does. Keep going." | Sam Levenson |
 | "The future belongs to those who believe in the beauty of their dreams." | Eleanor Roosevelt |
 
-## ⚙️ Getting Started
+##  Getting Started
 
 No build tools or installations needed.
 
@@ -53,7 +53,7 @@ cd random-quote-generator
 open index.html
 ```
 
-## 🎨 Customization
+## Customization
 
 **Add your own quotes** — open `script.js` and extend the `quotes` array:
 
